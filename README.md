@@ -1,1 +1,2 @@
-# Trabalho_Py-Git_2024
+# Trabalho de Python e Git.
+Professores: Renan Moreira e Hugo Nathan.
