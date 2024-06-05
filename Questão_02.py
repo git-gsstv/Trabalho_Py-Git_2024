@@ -1,4 +1,3 @@
-# int = int(input("Digite um número inteiro: "))
 varv_int = 10
 varv_float = 3.1415
 varv_str = 'DS1 melhor curso'
