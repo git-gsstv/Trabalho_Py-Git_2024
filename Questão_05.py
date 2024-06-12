@@ -6,5 +6,5 @@ def periodoDia(hora):
     elif hora >= 18 and hora <= 23:
         return "Noite"
     
-hora = int(input("Digite o horário atual: "))
+hora = int(input("Digite o horário atual(entre 0 e 23): "))
 print(f'O período atual é: {periodoDia(hora)}')
